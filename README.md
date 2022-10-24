@@ -19,3 +19,6 @@ SELECT* FROM grades JOIN users ON users.user_id=grades.user_id ВЫВЕСТИ Д
 
 Назввание сайтаж
 ## GenekBeliki.gethub.io
+
+# Шпоры:
+<fasgad.ipynb>
