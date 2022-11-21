@@ -45,7 +45,7 @@ $$p=\frac{F\bot }{S}$$
 
 
 
-## Инструкция по фотоаппарату:
+## Инструкция по фотоаппарату(Интерактивная):
 
 
 https://view.genial.ly/637b93225ba2af001afa3b34/interactive-image-copy-interactive-image
