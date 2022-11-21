@@ -42,3 +42,10 @@ $$p=\frac{F\bot }{S}$$
 
 
 <iframe width="768" height="432" src="https://miro.com/app/live-embed/uXjVPB3RDH8=/?moveToViewport=-540,-367,1497,771&embedId=820559811757" frameborder="0" scrolling="no" allowfullscreen></iframe>
+
+
+
+## Инструкция по фотоаппарату:
+
+
+https://view.genial.ly/637b93225ba2af001afa3b34/interactive-image-copy-interactive-image
