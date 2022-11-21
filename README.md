@@ -39,3 +39,6 @@ $$p=\frac{F\bot }{S}$$
 
 
 ![lagrida_latex_editor (2)](https://user-images.githubusercontent.com/114376670/200227179-5851069c-ccf5-4f30-80f9-cae60c20adad.png)
+
+
+<iframe width="768" height="432" src="https://miro.com/app/live-embed/uXjVPB3RDH8=/?moveToViewport=-540,-367,1497,771&embedId=820559811757" frameborder="0" scrolling="no" allowfullscreen></iframe>
