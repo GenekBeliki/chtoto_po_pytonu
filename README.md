@@ -52,11 +52,17 @@ https://view.genial.ly/637b93225ba2af001afa3b34/interactive-image-copy-interacti
 
 
 
-```
+```mermaid
 flowchart LR
 
-A[Hard] -->|Text| B(Round)
-B --> C{Decision}
-C -->|One| D[Result 1]
-C -->|Two| E[Result 2] 
+A[10] -->|Атестация| B(11)
+B --> C{ЕГЭ}
+C -->D{Мальчик}
+C -->E{Девочка}
+D -->|Пдохо| F[Армия]
+D -->|Хщрошо| N[ВУЗ]
+E -->|Хорошо| N
+E -->|Не сдала| L[Весились]
+C -->|Не сдал| H[Подготовка]
+H -->|Пересдача| C
 ```
