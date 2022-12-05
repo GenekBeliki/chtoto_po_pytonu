@@ -49,3 +49,12 @@ $$p=\frac{F\bot }{S}$$
 
 
 https://view.genial.ly/637b93225ba2af001afa3b34/interactive-image-copy-interactive-image
+
+
+
+flowchart LR
+
+A[Hard] -->|Text| B(Round)
+B --> C{Decision}
+C -->|One| D[Result 1]
+C -->|Two| E[Result 2]
