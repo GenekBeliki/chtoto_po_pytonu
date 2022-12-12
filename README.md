@@ -80,3 +80,6 @@ http://project6507957.tilda.ws/page32540080.html
 
 ![star_wars_style_47eae12b-f0be-4640-9b86-2d4f72e4ee8d](https://user-images.githubusercontent.com/114376670/207102543-561b694a-82ac-4ea4-8005-cda7da6e4343.jpeg)
 
+### Обединение персонажей
+
+![None_f7574e48-bd73-49ba-84fd-67c1dcd9830f](https://user-images.githubusercontent.com/114376670/207107977-96033181-4cd6-47c1-aab1-12cd211c2377.jpeg)
