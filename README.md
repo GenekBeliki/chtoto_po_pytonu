@@ -75,3 +75,8 @@ http://project6507957.tilda.ws/page32540080.html
 ### Изоброжение по надписи "skeleton"
 
 ![skeleton_4a752fec-25c5-43b0-acfb-907ca46d6b3b jpg](https://user-images.githubusercontent.com/114376670/207093575-d0160359-ec47-444b-910a-c164b581e126.jpeg)
+
+### Стилизованная аватарка из ВК 
+
+![star_wars_style_47eae12b-f0be-4640-9b86-2d4f72e4ee8d](https://user-images.githubusercontent.com/114376670/207102543-561b694a-82ac-4ea4-8005-cda7da6e4343.jpeg)
+
