@@ -70,3 +70,8 @@ H -->|Пересдача| C
 
 ## Мой Сайт на Tilda
 http://project6507957.tilda.ws/page32540080.html
+
+## Midjourney:
+### Изоброжение по надписи "skeleton"
+
+![skeleton_4a752fec-25c5-43b0-acfb-907ca46d6b3b jpg](https://user-images.githubusercontent.com/114376670/207093575-d0160359-ec47-444b-910a-c164b581e126.jpeg)
