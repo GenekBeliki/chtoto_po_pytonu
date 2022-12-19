@@ -83,3 +83,7 @@ http://project6507957.tilda.ws/page32540080.html
 ### Обединение персонажей
 
 ![None_f7574e48-bd73-49ba-84fd-67c1dcd9830f](https://user-images.githubusercontent.com/114376670/207107977-96033181-4cd6-47c1-aab1-12cd211c2377.jpeg)
+
+## ЕГЭ 19, 20, 21 задания
+![image](https://user-images.githubusercontent.com/114376670/208345035-5aedf082-1f2b-470c-ad1e-1229053c62f7.png)
+
