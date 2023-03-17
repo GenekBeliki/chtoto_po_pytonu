@@ -27,3 +27,21 @@
 |25||
 |26||
 |27||
+
+## Метод половинного дедения
+```sh
+a=[c for c in range(50,150+2)]
+b=[c for c in range(50,100+1)]
+b.reverse()
+s=b+a
+s.remove(50)
+
+while 0==0:
+    if s[len(s)//2-1]<s[len(s)//2]:
+        s=s[0:len(s)//2]
+    else:
+        s=s[len(s)//2:len(s)]
+    if len(s)==1:
+        break
+print(s[0])
+```
